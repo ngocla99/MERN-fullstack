@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DB_USER": "nemo",
+        "DB_PASSWORD": "NtaiWWhfCyyR4TZ6",
+        "DB_NAME": "mern",
+        "GOOGLE_API_KEY": "...",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}
